@@ -4,14 +4,7 @@
     "href": "index.html",
     "title": "Constantine",
     "section": "",
-    "text": "Student Dropout\n\n\n\n\n\nAn Examination of Student Characteristics and Economic Indicators\n\n\n\n\n\n\nAug 1, 2023\n\n\nConstantine Wang\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nAug 1, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nJul 29, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "This is a post with executable code."
+    "text": "Student Dropout\n\n\n\n\n\nAn Examination of Student Characteristics and Economic Indicators\n\n\n\n\n\n\nAug 1, 2023\n\n\nConstantine Wang\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/final.html",
@@ -89,13 +82,6 @@
     "title": "Student Dropout",
     "section": "",
     "text": "Our analysis has yielded valuable insights into the various factors that can significantly impact student academic success. We explored several common assumptions and found that some were supported by empirical evidence.\nAdditionally, through a comprehensive assessment of dataset, we uncovered new factors that influence student outcome. Interestingly, some findings confirmed our initial assumptions, such as the negative correlation between the age at enrollment and student graduation, as well as the positive correlation between credited units and student success.\nWe also observed the importance of financial factors, such as student debt and timely tuition fee payments, in relation to student outcomes. However, it is essential to note that correlations do not imply causation, and further research is necessary to thoroughly understand these relationships.\nRegarding societal and economic indicators like GDP and unemployment rates, we did not find substantial correlations with student academic success. Nonetheless, it is important to consider that these factors may still have potential influences that requires more comprehensive research with larger datasets and longer timeframes.\nAdditionally, our analysis of potential multicollinearity among variables revealed intriguing correlations. For instance, the inverse relationship between ‘Displaced’ and ‘Age at enrollment’, and the negative correlation between ‘Debtor’ and ‘Tuition fees up to date’, suggests possible mutual influences.\nIn conclusion, our analysis demonstrates the complexity of predicting student academic outcome. A multitude of factors, including personal circumstances, academic performance, financial situation, and potentially broader societal factors, all interact in intricate ways to influence student academic success."
-  },
-  {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
-    "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
     "objectID": "about.html",
